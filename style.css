@@ -24,7 +24,7 @@ body{
 
 }
 .sidebar{
-    height:90vh;
+    min-height:90vh;
     background-color: #2a2a2a;
     border: 1px solid #4e4e4e;
     border-radius: 14px;
